@@ -1,0 +1,5 @@
+python predict.py 'gs://youcode-240420-vcm/10.pdf' projects/1038057046312/locations/us-central1/models/TEN3696887946071244800
+
+
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/balaji/Downloads/youcode-0129c215d694.json"
